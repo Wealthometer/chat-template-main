@@ -33,3 +33,4 @@ import Animated, {
   useAnimatedRef,
   useScrollViewOffset,
   useAnimatedStyle,
+  interpolate,
