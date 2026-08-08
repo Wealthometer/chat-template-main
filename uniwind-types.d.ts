@@ -2,3 +2,4 @@
 /// <reference types="uniwind/types" />
 
 declare module 'uniwind' {
+    export interface UniwindConfig {
