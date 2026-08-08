@@ -37,3 +37,4 @@ import Animated, {
 } from "react-native-reanimated";
 
 function Page() {
+  const ref = useAnimatedRef();
