@@ -34,3 +34,4 @@ import Animated, {
   useScrollViewOffset,
   useAnimatedStyle,
   interpolate,
+} from "react-native-reanimated";
