@@ -40,3 +40,4 @@ function Page() {
   const ref = useAnimatedRef();
   const scroll = useScrollViewOffset(ref);
 
+  const style = useAnimatedStyle(() => ({
