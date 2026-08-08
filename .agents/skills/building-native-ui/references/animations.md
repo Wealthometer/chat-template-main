@@ -21,3 +21,4 @@ function App() {
       layout={LinearTransition}
     />
   );
+}
