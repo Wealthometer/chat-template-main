@@ -18,3 +18,4 @@ function App() {
     <Animated.View
       entering={FadeIn}
       exiting={FadeOut}
+      layout={LinearTransition}
