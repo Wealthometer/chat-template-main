@@ -13,3 +13,4 @@ import Animated, {
   LinearTransition,
 } from "react-native-reanimated";
 
+function App() {
