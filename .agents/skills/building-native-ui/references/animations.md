@@ -28,3 +28,4 @@ function App() {
 
 Create high-performance scroll animations using Reanimated's hooks:
 
+```tsx
