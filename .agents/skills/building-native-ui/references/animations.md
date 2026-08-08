@@ -14,3 +14,4 @@ import Animated, {
 } from "react-native-reanimated";
 
 function App() {
+    <Animated.View
