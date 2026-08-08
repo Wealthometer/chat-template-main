@@ -25,3 +25,13 @@ function App() {
 ```
 
 ## On-Scroll Animations
+
+Create high-performance scroll animations using Reanimated's hooks:
+
+```tsx
+import Animated, {
+  useAnimatedRef,
+  useScrollViewOffset,
+  useAnimatedStyle,
+  interpolate,
+} from "react-native-reanimated";
