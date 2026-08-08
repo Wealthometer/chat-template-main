@@ -11,3 +11,4 @@ import Animated, {
   FadeIn,
   FadeOut,
   LinearTransition,
+} from "react-native-reanimated";
