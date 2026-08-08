@@ -22,3 +22,6 @@ function App() {
     />
   );
 }
+```
+
+## On-Scroll Animations
