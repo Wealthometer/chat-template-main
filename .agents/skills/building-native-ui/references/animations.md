@@ -9,3 +9,4 @@ Use Animated.View with entering and exiting animations. Layout animations can an
 ```tsx
 import Animated, {
   FadeIn,
+  FadeOut,
