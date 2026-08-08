@@ -27,3 +27,4 @@ function App() {
 ## On-Scroll Animations
 
 Create high-performance scroll animations using Reanimated's hooks:
+
