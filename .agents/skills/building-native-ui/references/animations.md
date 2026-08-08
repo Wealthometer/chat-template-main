@@ -30,3 +30,4 @@ Create high-performance scroll animations using Reanimated's hooks:
 
 ```tsx
 import Animated, {
+  useAnimatedRef,
