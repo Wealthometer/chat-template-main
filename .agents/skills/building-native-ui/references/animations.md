@@ -16,3 +16,4 @@ import Animated, {
 function App() {
   return (
     <Animated.View
+      entering={FadeIn}
