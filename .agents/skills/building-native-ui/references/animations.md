@@ -20,3 +20,4 @@ function App() {
       exiting={FadeOut}
       layout={LinearTransition}
     />
+  );
