@@ -10,3 +10,4 @@ Use Animated.View with entering and exiting animations. Layout animations can an
 import Animated, {
   FadeIn,
   FadeOut,
+  LinearTransition,
