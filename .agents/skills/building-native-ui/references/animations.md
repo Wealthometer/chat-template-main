@@ -19,3 +19,4 @@ function App() {
       entering={FadeIn}
       exiting={FadeOut}
       layout={LinearTransition}
+    />
